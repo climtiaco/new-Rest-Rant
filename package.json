@@ -1,7 +1,7 @@
 {
   "name": "new-rest-rant",
   "version": "1.0.0",
-  "description": "",
+  "description": "REST-Rant is an app where users can review restaurants.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,14 @@
     "express-react-views": "^0.11.0",
     "nodemon": "^2.0.22",
     "react": "^18.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climtiaco/new-Rest-Rant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/climtiaco/new-Rest-Rant/issues"
+  },
+  "homepage": "https://github.com/climtiaco/new-Rest-Rant#readme"
 }
